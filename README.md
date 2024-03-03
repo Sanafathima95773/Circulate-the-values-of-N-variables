@@ -25,6 +25,6 @@ def circulate():
 ```
 ## Output:
 
-![Screenshot 2024-03-01 150048](https://github.com/Sanafathima95773/Circulate-the-values-of-N-variables/assets/147084627/7be1dc9c-8c65-4497-b2d0-5cff096f5176)
+![Screenshot 2024-02-28 143145](https://github.com/Sanafathima95773/Circulate-the-values-of-N-variables/assets/147084627/b07d0be9-5d52-4553-a678-607e9c7cd557)
 
 ## Result:
