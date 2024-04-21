@@ -18,7 +18,7 @@ Step 4:
 print the result Using the slicing concept rotate the list
 
 Step 5:
-finally print the result
+finally print the result.
 ## Program:
 ```
 '''Circulate the n variables
